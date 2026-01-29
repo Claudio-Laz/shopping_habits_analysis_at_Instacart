@@ -1,4 +1,4 @@
-# Análisis en los Hábitos de Compra en los Usuarios de Instacart
+# Análisis en los Hábitos de Compra por los Usuarios de Instacart
 
 Proyecto de análisis exploratorio y de comportamiento enfocado en **comprender los hábitos de compra de los usuarios** de la plataforma de comestibles **Instacart**. El análisis estudia patrones de pedidos, productos y reordenes, así como el comportamiento temporal de los clientes, con la finalidad de responder a múltiples preguntas de negocio para su posterior uso en estrategias comerciales y de marketing.
 
