@@ -84,8 +84,6 @@ El proyecto utiliza múltiples datasets relacionados con la operación de Instac
    - Seleccionar el kernel del entorno virtual
    - Ejecutar todas las celdas en orden
 
----
-
 ## Tecnologías usadas
 
 - Python.
